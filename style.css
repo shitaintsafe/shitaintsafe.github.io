@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+.splash {
+    text-align: center;
+    margin-top: 2%;
+    max-height: 100vw;
+}
+
+.splash h1 {
+    font-family: ;
+    font-size: 5vw;
+    color: peru;
+    letter-spacing: 0.25ch;
+}
+
+#portrait {
+    max-width: 375px;
+}
